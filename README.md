@@ -15,13 +15,6 @@ Foi realizado a fim de aperfeiçoar minhas habilidades com HTML e CSS.
 
 Projeto está responsivo com desktops a smartphones.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através do link abaixo:
-
-[Clique aqui](https://kewensantiago.github.io/Zingen-PlataformaDeKaraoke/)
-
-
 ## 🧪 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -33,3 +26,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="12" />
 </div>
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através do link abaixo:
+
+[Clique aqui](https://kewensantiago.github.io/Zingen-PlataformaDeKaraoke/)
